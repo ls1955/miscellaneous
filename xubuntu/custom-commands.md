@@ -1,4 +1,9 @@
 ```
+alias df='df -h'
+alias off='poweroff'
+alias rm='rm -i'
+alias code='code ./'
+
 rb() {
   if [ "$1" = "e" ]; then
     cd ~/exercism/ruby
