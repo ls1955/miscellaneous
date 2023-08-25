@@ -7,4 +7,5 @@ py manage.py migrate
 py manage.py sqlmigrate <app-name> <migrate-id>
 py manage.py check
 py manage.py shell
+py manage.py createsuperuser
 ```
