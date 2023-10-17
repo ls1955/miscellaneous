@@ -1,5 +1,5 @@
 Although author pretty sure he won't need those commands, nor will he understand
-those commands after that part-time jobs, here goes...
+those commands after that part-time job, here goes...
 
 ```bash
 datum project create -o ./ # initialize something at current directory
