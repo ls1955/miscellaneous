@@ -10,3 +10,7 @@
 * [More hex grid](http://web.archive.org/web/20090205120106/http://sc.tri-bit.com/Hex_Grids)
 * [Interactive hex grid manual](http://ondras.github.io/rot.js/manual/#hex/indexing)
 * [hexgrid Ruby gem repo](https://github.com/ideasasylum/hexgrid)
+
+## Programming related tips
+* [Ruby TIL](https://til.hashrocket.com/ruby)
+* [Rails TIL](https://til.hashrocket.com/rails)
