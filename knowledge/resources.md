@@ -5,6 +5,9 @@
 * [Game, math and algos list](https://www.redblobgames.com/)
 * [Resources](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 
+## Git
+* [Git immersion](https://gitimmersion.com/)
+
 ## Graph, grid
 * [Learn more about hexagonal grids?](https://www.redblobgames.com/grids/hexagons/)
 * [More hex grid](http://web.archive.org/web/20090205120106/http://sc.tri-bit.com/Hex_Grids)
