@@ -14,3 +14,6 @@
 ## Programming related tips
 * [Ruby TIL](https://til.hashrocket.com/ruby)
 * [Rails TIL](https://til.hashrocket.com/rails)
+
+## Others
+* [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover)
