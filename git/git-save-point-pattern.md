@@ -8,7 +8,7 @@ Want to merge branch `main` to 'feature'
 # Steps
 ```bash
 git checkout main # Ensure clean working state
-git checkout -b save_point
+git branch save_point # Create save_point branch (does not switch to it)
 git merge feature # Resolve conflict, if any
 # Predict the changes
 git hist # View the changes
