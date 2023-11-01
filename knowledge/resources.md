@@ -18,5 +18,6 @@
 * [Ruby TIL](https://til.hashrocket.com/ruby)
 * [Rails TIL](https://til.hashrocket.com/rails)
 
-## Others
+## Others programming related stuffs
+* [quine](https://en.wikipedia.org/wiki/Quine_(computing))
 * [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover)
