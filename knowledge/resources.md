@@ -14,9 +14,10 @@
 * [Interactive hex grid manual](http://ondras.github.io/rot.js/manual/#hex/indexing)
 * [hexgrid Ruby gem repo](https://github.com/ideasasylum/hexgrid)
 
-## Programming related tips
+## Ruby related tips
 * [Ruby TIL](https://til.hashrocket.com/ruby)
 * [Rails TIL](https://til.hashrocket.com/rails)
+* [zverok's space](https://zverok.space/)
 
 ## Others programming related stuffs
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
