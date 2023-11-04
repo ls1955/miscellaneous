@@ -18,6 +18,7 @@
 * [Ruby TIL](https://til.hashrocket.com/ruby)
 * [Rails TIL](https://til.hashrocket.com/rails)
 * [zverok's space](https://zverok.space/)
+* [TechRacho(JP)](https://techracho.bpsinc.jp/category/ruby-rails-related)
 
 ## Others programming related stuffs
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
