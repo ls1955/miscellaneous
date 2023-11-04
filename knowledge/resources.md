@@ -14,12 +14,14 @@
 * [Interactive hex grid manual](http://ondras.github.io/rot.js/manual/#hex/indexing)
 * [hexgrid Ruby gem repo](https://github.com/ideasasylum/hexgrid)
 
-## Ruby related tips
+## Ruby
 * [Ruby TIL](https://til.hashrocket.com/ruby)
 * [Rails TIL](https://til.hashrocket.com/rails)
 * [zverok's space](https://zverok.space/)
 * [TechRacho(JP)](https://techracho.bpsinc.jp/category/ruby-rails-related)
+* [Ruby language evolution](https://rubyreferences.github.io/rubychanges/)
 
 ## Others programming related stuffs
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
 * [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover)
+
