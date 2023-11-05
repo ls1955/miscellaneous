@@ -21,6 +21,9 @@
 * [TechRacho(JP)](https://techracho.bpsinc.jp/category/ruby-rails-related)
 * [Ruby language evolution](https://rubyreferences.github.io/rubychanges/)
 
+## Rails
+* [UT Rails course](https://schneems.com/ut-rails)
+
 ## Others programming related stuffs
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
 * [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover)
