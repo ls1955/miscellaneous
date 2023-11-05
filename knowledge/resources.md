@@ -23,6 +23,7 @@
 
 ## Rails
 * [UT Rails course](https://schneems.com/ut-rails)
+* [Rails Testing Guide(codewithjason)](https://www.codewithjason.com/rails-testing-guide/)
 
 ## Others programming related stuffs
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
