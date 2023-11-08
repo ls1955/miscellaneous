@@ -29,3 +29,8 @@
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
 * [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover)
 
+## Vim
+```bash
+vimtutor # in linux terinal
+```
+
