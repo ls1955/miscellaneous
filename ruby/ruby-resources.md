@@ -1,1 +1,0 @@
-* [Writing utility scripts in Ruby](https://www.youtube.com/watch?v=4jrljM1Ha6o)
