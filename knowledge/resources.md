@@ -24,6 +24,7 @@
 ## Others programming related stuffs
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
 * [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover)
+* [MiniZinc, a constraint modeling language](https://www.minizinc.org/)
 
 ## Rails
 * [UT Rails course](https://schneems.com/ut-rails)
