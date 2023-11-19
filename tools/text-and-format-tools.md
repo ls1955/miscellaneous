@@ -1,1 +1,0 @@
-* [typst](https://typst.app/)
