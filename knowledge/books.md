@@ -2,3 +2,5 @@
 * Steve McConnell - Rapid development
 * Rebuilding Rails
 * Eloquent Ruby
+* The Little Schemer
+
