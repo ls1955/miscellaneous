@@ -9,3 +9,7 @@
 
 # Text and format
 * [typst](https://typst.app/)
+
+# 3d model
+* [sketchfab](https://sketchfab.com/)
+
