@@ -37,18 +37,34 @@ mov to, from
 times <int> <instruction>
 
 ;
-; Define byte. Allocate a byte for <obj>
+; Define byte.
 ; Usage:
 ;   db 'X'
+;   db 'Tuna', 0 # Define a string follow with null character
 ;
 db <obj>
 
 ;
-; Define word. Allocate two byte for <obj>
+; Define word.
 ; Usage:
 ;   dw 0xaa55
+;   dw 'Tuna', 0 # ditto
 ;
 dw <obj>
+
+;
+; Pop <obj> into <register>. Increment sp afterward.
+; Usage:
+;   pop bx
+;
+pop <register>
+
+;
+; Push <obj> onto stack. Decrement sp beforehand.
+; Usage:
+;   push 'X'
+;
+push <obj>
 
 ;
 ;
@@ -70,4 +86,23 @@ sp ; stack ptr. Decrement when push, increment when pop
 ;
 i_am_a_label:
   db 'X'
+
+;
+;
+; Interrupts
+;
+;
+
+;
+; Print a char on screen
+; ah -> print mode
+; al -> char to be print
+; Usage:
+;   mov ah, 0x0e # tele-type printing mode
+;   move al, 'c'
+;   int 0x10
+;
+
+0x10
+
 ```
