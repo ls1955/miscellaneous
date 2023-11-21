@@ -58,6 +58,8 @@ dw <obj>
 
 $ ; current addrress
 $$ ; origin address
+bp ; stack base ptr. The address of stack base
+sp ; stack ptr. Decrement when push, increment when pop
 
 ;
 ; Allocate a memory to store 'X' at address $$ + i_am_a_label
