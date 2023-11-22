@@ -21,10 +21,32 @@ call <label>
 ;
 ret
 
+;
+; Add <val> to <register>
+;
+add <register>, <val>
+
+;
 ; Compare two <val> and set the flags
 ; Usually pair with other conditional instructions like je afterward
 ;
 cmp <val>, <val>
+
+;
+; Define byte.
+; Usage:
+;   db 'X'
+;   db 'Tuna', 0 # Define a string follow with null character
+;
+db <val>
+
+;
+; Define word.
+; Usage:
+;   dw 0xaa55
+;   dw 'Tuna', 0 # ditto
+;
+dw <val>
 
 ;
 ; Send an software interrupt
@@ -108,22 +130,6 @@ popa
 times <int> <instruction>
 
 ;
-; Define byte.
-; Usage:
-;   db 'X'
-;   db 'Tuna', 0 # Define a string follow with null character
-;
-db <val>
-
-;
-; Define word.
-; Usage:
-;   dw 0xaa55
-;   dw 'Tuna', 0 # ditto
-;
-dw <val>
-
-;
 ; Pop <val> into <register>. Increment sp afterward.
 ; Usage:
 ;   pop bx
@@ -139,10 +145,21 @@ push <val>
 
 ;
 ;
-; Other stuff
+; Chars
 ;
 ;
 
+; Below two chars could pair together (order interchangable)
+; before terminate the string to print newline
+0xa # newline
+0xd # carriage return
+
+
+;
+;
+; Others
+;
+;
 $ ; current addrress
 $$ ; origin address
 bp ; stack base ptr. The address of stack base
@@ -153,7 +170,7 @@ sp ; stack ptr. Decrement when push, increment when pop
 ; Same as:
 ; i_am_a_label db 'X'
 ; Could think about it (in JavaScript) as:
-; let i_am_a_label = 'X'
+;   let i_am_a_label = 'X'
 ;
 i_am_a_label:
   db 'X'
@@ -173,7 +190,4 @@ i_am_a_label:
 ;   move al, 'c'
 ;   int 0x10
 ;
-
-0x10
-
 ```
