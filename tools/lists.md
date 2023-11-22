@@ -1,5 +1,5 @@
 # Code
-* shellcheck # Footgun preventer for Bash
+* shellcheck # Bash footgun preventer
 
 # Diagram
 * [Excalidraw](https://excalidraw.com/)
