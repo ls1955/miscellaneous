@@ -21,10 +21,10 @@ call <label>
 ;
 ret
 
-; Compare two <obj> and set the flags
+; Compare two <val> and set the flags
 ; Usually pair with other conditional instructions like je afterward
 ;
-cmp <obj>, <obj>
+cmp <val>, <val>
 
 ;
 ; Send an software interrupt
@@ -113,7 +113,7 @@ times <int> <instruction>
 ;   db 'X'
 ;   db 'Tuna', 0 # Define a string follow with null character
 ;
-db <obj>
+db <val>
 
 ;
 ; Define word.
@@ -121,21 +121,21 @@ db <obj>
 ;   dw 0xaa55
 ;   dw 'Tuna', 0 # ditto
 ;
-dw <obj>
+dw <val>
 
 ;
-; Pop <obj> into <register>. Increment sp afterward.
+; Pop <val> into <register>. Increment sp afterward.
 ; Usage:
 ;   pop bx
 ;
 pop <register>
 
 ;
-; Push <obj> onto stack. Decrement sp beforehand.
+; Push <val> onto stack. Decrement sp beforehand.
 ; Usage:
 ;   push 'X'
 ;
-push <obj>
+push <val>
 
 ;
 ;
