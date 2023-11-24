@@ -10,6 +10,11 @@
 [org <addr>]
 
 ;
+; See also: or, xor
+;
+and <op1> <op2>
+
+;
 ; Like jmp, but store the address beforehand
 ; Pair with ret to return to same address afterward
 ;
@@ -25,6 +30,11 @@ ret
 ; Add <val> to <register>
 ;
 add <register>, <val>
+
+;
+; Subtract <val> from <register>
+;
+sub <register>, <val>
 
 ;
 ; Compare two <val> and set the flags
@@ -144,6 +154,16 @@ pop <register>
 push <val>
 
 ;
+; Shift <operand> left by <count>
+;
+shl <operand> <count>
+
+;
+; Shift <operand> right by <count>
+;
+shr <operand> <count>
+
+;
 ;
 ; Chars
 ;
@@ -164,6 +184,10 @@ $ ; current addrress
 $$ ; origin address
 bp ; stack base ptr. The address of stack base
 sp ; stack ptr. Decrement when push, increment when pop
+ax
+bx ; This is the ONLY index register. I.e. the register that could write to addr
+cx
+dx
 
 ;
 ; Allocate a memory to store 'X' at address $$ + i_am_a_label
