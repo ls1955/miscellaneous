@@ -7,6 +7,9 @@
 ;   [org 0x7c00]
 [org <addr>]
 
+; Identify <sym> as external symbol in other file
+[extern <sym>]
+
 and <op1> <op2> ; See also: or, xor
 
 ; Like jmp, but store the address beforehand
