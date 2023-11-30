@@ -41,6 +41,19 @@ dw <val> ; Define word. (2 bytes)
 
 ddw <val> ; Define double word (4 bytes)
 
+; Read port's contents from <port> to <reg>
+; Usage:
+;   mov dx, 0x3f2
+;   in al, dx
+in <reg>, <port>
+
+; Write port's contents from <reg> to <port>
+; Usage:
+;   mov dx, 0x3f2
+;   in al, dx
+;   out dx, al
+out <port>, <reg>
+
 ; Send an software interrupt
 ; Usage:
 ;   int 0x10 ; print a char via BIOS ISR
@@ -119,7 +132,8 @@ ebp ; extended bp
 esp ; extended sp
 
 ; Registers
-ax, cx, dx
+ax, cx
+dx ; This is the ONLY register that store port address
 bx ; This is the ONLY index register. I.e. the register that could write to addr
 eax, ebx, ecx, edc ; Extended registers (4 bytes)
 cr0 ; Control register
