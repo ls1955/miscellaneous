@@ -23,6 +23,8 @@
 ## OS
 [Create your own os playlist](https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 [Makefile explanation](https://www.sis.pitt.edu/mbsclass/tutorial/advanced/makefile/whatis.htm)
+[How to make an operating system](https://samypesse.gitbook.io/how-to-create-an-operating-system/)
+[Operating System: Three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Others programming related stuffs
 * [quine](https://en.wikipedia.org/wiki/Quine_(computing))
