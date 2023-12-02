@@ -45,6 +45,8 @@ ddw <val> ; Define double word (4 bytes)
 ; Usage:
 ;   mov dx, 0x3f2
 ;   in al, dx
+; Note:
+;   <reg> and <port> are reversed in GAS
 in <reg>, <port>
 
 ; Write port's contents from <reg> to <port>
