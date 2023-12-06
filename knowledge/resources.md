@@ -34,6 +34,7 @@
 ## Rails
 * [UT Rails course](https://schneems.com/ut-rails)
 * [Rails Testing Guide(codewithjason)](https://www.codewithjason.com/rails-testing-guide/)
+* [Hotrails](https://www.hotrails.dev/)
 
 ## Ruby
 * [Ruby TIL](https://til.hashrocket.com/ruby)
