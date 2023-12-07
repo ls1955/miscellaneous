@@ -4,6 +4,9 @@
 ## CSS
 * [CSS transitions](https://www.youtube.com/watch?v=8kK-cA99SA0)
 
+## DSA
+* [Zobrist hashing](https://en.wikipedia.org/wiki/Zobrist_hashing)
+
 ## Games programming
 * [Game, math and algos list](https://www.redblobgames.com/)
 * [Resources](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
