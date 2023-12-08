@@ -10,6 +10,8 @@
 ## Games programming
 * [Game, math and algos list](https://www.redblobgames.com/)
 * [Resources](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
+* [Flutter games toolkit](https://docs.flutter.dev/resources/games-toolkit)
+
 
 ## Git
 * [Git immersion](https://gitimmersion.com/)
