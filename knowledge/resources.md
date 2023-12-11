@@ -50,6 +50,7 @@
 * [Ruby under a microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 * [Writing utility scripts in Ruby](https://www.youtube.com/watch?v=4jrljM1Ha6o)
 * [Kevin Newton's website](https://kddnewton.com/)
+* [New Ruby parser design docs](https://docs.google.com/document/d/1x74L_paTxS_h8_OtQjDoLVgxZP6Y96WOJ1LdLNb4BKM/edit#heading=h.6eyajfy04xhw)
 
 ## Web app
 * [Build a web app in plain Ruby](https://www.akshaykhot.com/building-web-application-without-rails/)
