@@ -47,6 +47,7 @@
 * [zverok's space](https://zverok.space/)
 * [TechRacho(JP)](https://techracho.bpsinc.jp/category/ruby-rails-related)
 * [Ruby language evolution](https://rubyreferences.github.io/rubychanges/)
+* [Ruby under a microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 * [Writing utility scripts in Ruby](https://www.youtube.com/watch?v=4jrljM1Ha6o)
 
 ## Web app
