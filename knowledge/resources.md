@@ -49,6 +49,7 @@
 * [Ruby language evolution](https://rubyreferences.github.io/rubychanges/)
 * [Ruby under a microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 * [Writing utility scripts in Ruby](https://www.youtube.com/watch?v=4jrljM1Ha6o)
+* [Kevin Newton's website](https://kddnewton.com/)
 
 ## Web app
 * [Build a web app in plain Ruby](https://www.akshaykhot.com/building-web-application-without-rails/)
