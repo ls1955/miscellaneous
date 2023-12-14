@@ -1,5 +1,5 @@
 ## Audio control
-* Eartrumpet (Window)
+* [EarTrumpet](https://eartrumpet.app/)
 
 ## Assembly
 * [Assembly guide](https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
@@ -11,7 +11,7 @@
 * [Zobrist hashing](https://en.wikipedia.org/wiki/Zobrist_hashing)
 
 ## Game engine
-* DragonRuby
+* [DragonRuby](https://dragonruby.org/)
 
 ## Games programming
 * [Game, math and algos list](https://www.redblobgames.com/)
@@ -28,7 +28,10 @@
 * [hexgrid Ruby gem repo](https://github.com/ideasasylum/hexgrid)
 
 ## Math
-[The Josephus problem with Numberphile](https://www.youtube.com/watch?v=uCsD3ZGzMgE&ab_channel=Numberphile)
+* [The Josephus problem with Numberphile](https://www.youtube.com/watch?v=uCsD3ZGzMgE&ab_channel=Numberphile)
+
+## Model
+* [Markov chain](https://en.wikipedia.org/wiki/Markov_chain)
 
 ## OS
 [Create your own os playlist](https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
