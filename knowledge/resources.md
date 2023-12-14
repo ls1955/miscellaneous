@@ -1,3 +1,6 @@
+## Audio control
+* Eartrumpet (Window)
+
 ## Assembly
 * [Assembly guide](https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 
@@ -7,11 +10,13 @@
 ## DSA
 * [Zobrist hashing](https://en.wikipedia.org/wiki/Zobrist_hashing)
 
+## Game engine
+* DragonRuby
+
 ## Games programming
 * [Game, math and algos list](https://www.redblobgames.com/)
 * [Resources](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 * [Flutter games toolkit](https://docs.flutter.dev/resources/games-toolkit)
-
 
 ## Git
 * [Git immersion](https://gitimmersion.com/)
