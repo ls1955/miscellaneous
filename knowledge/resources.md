@@ -4,6 +4,9 @@
 ## Assembly
 * [Assembly guide](https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 
+## Binary
+* [Gray code](https://en.wikipedia.org/wiki/Gray_code)
+
 ## CSS
 * [CSS transitions](https://www.youtube.com/watch?v=8kK-cA99SA0)
 
