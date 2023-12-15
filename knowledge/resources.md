@@ -10,6 +10,9 @@
 ## CSS
 * [CSS transitions](https://www.youtube.com/watch?v=8kK-cA99SA0)
 
+# CV
+* [University Nottingham sample CV](https://www.nottingham.edu.my/Careers/documents/Resources/CVSamples/SampleCVsdocument2008.pdf)
+
 ## DSA
 * [Zobrist hashing](https://en.wikipedia.org/wiki/Zobrist_hashing)
 
