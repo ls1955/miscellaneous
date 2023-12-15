@@ -33,6 +33,9 @@
 * [Interactive hex grid manual](http://ondras.github.io/rot.js/manual/#hex/indexing)
 * [hexgrid Ruby gem repo](https://github.com/ideasasylum/hexgrid)
 
+## HTML
+* [HTML5 Element flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
+
 ## Math
 * [The Josephus problem with Numberphile](https://www.youtube.com/watch?v=uCsD3ZGzMgE&ab_channel=Numberphile)
 
