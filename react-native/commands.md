@@ -13,4 +13,10 @@ npm install <library> --save
 # run project in android
 npm start # run metro server
 npm run android # run emulator/phone (at another terminal)
+
+# connect physical device
+[Running on device doc](https://reactnative.dev/docs/running-on-device)
+
+# debugging
+[Debugging basics doc](https://reactnative.dev/docs/debugging#accessing-the-dev-menu)
 ```
