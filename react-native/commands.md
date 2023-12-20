@@ -18,4 +18,7 @@ adb devices
 
 # debugging
 [Debugging basics doc](https://reactnative.dev/docs/debugging#accessing-the-dev-menu)
+
+# production build
+[Production build doc](https://reactnative.dev/docs/signed-apk-android)
 ```
