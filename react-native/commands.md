@@ -1,3 +1,4 @@
+# commands
 ```shell
 # create a new project
 npx react-native@latest init <project>
@@ -9,16 +10,17 @@ npm install <library> --save
 npm start # run metro server
 npm run android # run emulator/phone (at another terminal)
 
+# connect physical device
 # adb (android debug bridge)
 # list connected devices
 adb devices
 
-# connect physical device
-[Running on device doc](https://reactnative.dev/docs/running-on-device)
-
-# debugging
-[Debugging basics doc](https://reactnative.dev/docs/debugging#accessing-the-dev-menu)
-
 # production build
-[Production build doc](https://reactnative.dev/docs/signed-apk-android)
+npx react-native build-android --mode=release
+npm run android -- --mode="release"
 ```
+
+# references
+* [Running on device doc](https://reactnative.dev/docs/running-on-device)
+* [Debugging basics doc](https://reactnative.dev/docs/debugging#accessing-the-dev-menu)
+* [Production build doc](https://reactnative.dev/docs/signed-apk-android)
